@@ -1,0 +1,6 @@
+X1 in n1 crystal
+X2 n1 n2 crystal
+X3 n2 out crystal
+C1 n1 gnd 100p
+C2 n2  gnd 220p
+C3 out gnd 100p

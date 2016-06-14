@@ -1,0 +1,6 @@
+Cm in n1 10f
+Cp in out 35f
+Lm n1 n2 0.02533
+Rs n2 out 1
+R1 in gnd 1M
+R2 out gnd 1M
