@@ -5,6 +5,7 @@ import flanagan.complex.*
 
 class Crystal extends Element {
 
+
 Netlist cnet 
 NodePair nodeA
 NodePair nodeB
